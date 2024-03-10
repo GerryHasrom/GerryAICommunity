@@ -2,6 +2,7 @@
 Sistem Pendataan Layanan AI Industri "GerryAICommunity"
 
 File GerryAICommunity.java
+>>>>   GerryAICommunity/GerryAICommunity/src/main/java/com/mycompany/gerryaicommunity/GerryAICommunity.java
 
 
 Dibuat menggunakan Software Apache Netbeans 21
