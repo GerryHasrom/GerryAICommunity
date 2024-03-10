@@ -1,4 +1,4 @@
-# GerryAICommunity 
+# GerryAICommunity - POSTTEST 1 PBO
 Sistem Pendataan Layanan AI Industri "GerryAICommunity"
 
 File GerryAICommunity.java
@@ -11,4 +11,4 @@ Dibuat oleh :
 ==============
 | Nama : Gerry Hasrom
 | NIM  : 2209106094
-| Kelas Praktikum : PBO C1'22
+| Kelas Praktikum : PBO C1'22.
