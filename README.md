@@ -9,6 +9,6 @@ Dibuat menggunakan Software Apache Netbeans 21
 
 Dibuat oleh :
 ==============
-Nama : Gerry Hasrom
-NIM  : 2209106094
-Kelas Praktikum : PBO C1'22
+| Nama : Gerry Hasrom
+| NIM  : 2209106094
+| Kelas Praktikum : PBO C1'22
